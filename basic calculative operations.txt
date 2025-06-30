@@ -1,0 +1,20 @@
+class Main {
+    public static void main(String[] args) {
+        System.out.println("Try programiz.pro");
+        double var1=56;
+        double var2=3;
+      //  System.out.println(var1+var2);
+       System.out.println("The sum is "+(var1+var2));
+        System.out.println("The difference is "+(var1-var2));
+        System.out.println("The product is "+(var1*var2));
+        if(var2==0)
+        {
+         System.out.println("cannot divide by 0");   
+        }else
+        {
+        System.out.println("The result is "+(var1/var2));
+        }
+      //  System.out.println("The division is "+(var1/var2));
+        
+        
+    }
