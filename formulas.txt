@@ -1,0 +1,15 @@
+class Main {
+   public static void main(String[] args) {
+      //  System.out.println("Try programiz.pro");
+        double length=54;
+        double breadth=45;
+    System.out.println(" the area of rectangle is "+(length*breadth));
+        double side1=35;
+        System.out.println("the area square is "+(side1*side1));
+        double radius=20;
+        System.out.println("the area of a circle is "+(3.14*radius*radius));
+        double height=63;
+    System.out.println(" the volume of a cube is "+(length*breadth*height));
+    System.out.println(" the area of a cylinder is "+(2*3.14*radius*height+2*3.14*radius*radius));
+    }
+}
